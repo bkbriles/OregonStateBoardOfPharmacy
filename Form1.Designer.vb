@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.mnuFile = New System.Windows.Forms.ToolStripMenuItem()
@@ -59,7 +59,8 @@ Partial Class Form1
         'mnuFileExit
         '
         Me.mnuFileExit.Name = "mnuFileExit"
-        Me.mnuFileExit.Size = New System.Drawing.Size(92, 22)
+        Me.mnuFileExit.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.Q), System.Windows.Forms.Keys)
+        Me.mnuFileExit.Size = New System.Drawing.Size(146, 22)
         Me.mnuFileExit.Text = "E&xit"
         '
         'mnuHelp
@@ -83,50 +84,55 @@ Partial Class Form1
         Me.lblTextQuestion.Size = New System.Drawing.Size(49, 13)
         Me.lblTextQuestion.TabIndex = 1
         Me.lblTextQuestion.Text = "Question"
+        Me.lblTextQuestion.Visible = False
         '
         'radAnswerA
         '
         Me.radAnswerA.AutoSize = True
         Me.radAnswerA.Location = New System.Drawing.Point(51, 108)
         Me.radAnswerA.Name = "radAnswerA"
-        Me.radAnswerA.Size = New System.Drawing.Size(54, 17)
+        Me.radAnswerA.Size = New System.Drawing.Size(32, 17)
         Me.radAnswerA.TabIndex = 2
         Me.radAnswerA.TabStop = True
-        Me.radAnswerA.Text = "0.4mg"
+        Me.radAnswerA.Text = "A"
         Me.radAnswerA.UseVisualStyleBackColor = True
+        Me.radAnswerA.Visible = False
         '
         'radAnswerB
         '
         Me.radAnswerB.AutoSize = True
         Me.radAnswerB.Location = New System.Drawing.Point(51, 131)
         Me.radAnswerB.Name = "radAnswerB"
-        Me.radAnswerB.Size = New System.Drawing.Size(60, 17)
+        Me.radAnswerB.Size = New System.Drawing.Size(32, 17)
         Me.radAnswerB.TabIndex = 3
         Me.radAnswerB.TabStop = True
-        Me.radAnswerB.Text = "0.04mg"
+        Me.radAnswerB.Text = "B"
         Me.radAnswerB.UseVisualStyleBackColor = True
+        Me.radAnswerB.Visible = False
         '
         'radAnswerC
         '
         Me.radAnswerC.AutoSize = True
         Me.radAnswerC.Location = New System.Drawing.Point(51, 154)
         Me.radAnswerC.Name = "radAnswerC"
-        Me.radAnswerC.Size = New System.Drawing.Size(66, 17)
+        Me.radAnswerC.Size = New System.Drawing.Size(32, 17)
         Me.radAnswerC.TabIndex = 4
         Me.radAnswerC.TabStop = True
-        Me.radAnswerC.Text = "0.004mg"
+        Me.radAnswerC.Text = "C"
         Me.radAnswerC.UseVisualStyleBackColor = True
+        Me.radAnswerC.Visible = False
         '
         'radAnswerD
         '
         Me.radAnswerD.AutoSize = True
         Me.radAnswerD.Location = New System.Drawing.Point(51, 177)
         Me.radAnswerD.Name = "radAnswerD"
-        Me.radAnswerD.Size = New System.Drawing.Size(45, 17)
+        Me.radAnswerD.Size = New System.Drawing.Size(33, 17)
         Me.radAnswerD.TabIndex = 5
         Me.radAnswerD.TabStop = True
-        Me.radAnswerD.Text = "4mg"
+        Me.radAnswerD.Text = "D"
         Me.radAnswerD.UseVisualStyleBackColor = True
+        Me.radAnswerD.Visible = False
         '
         'btnSubmitEarly
         '
@@ -153,6 +159,7 @@ Partial Class Form1
         Me.lblQuestionNumber.Size = New System.Drawing.Size(64, 13)
         Me.lblQuestionNumber.TabIndex = 10
         Me.lblQuestionNumber.Text = "1 of 50:"
+        Me.lblQuestionNumber.Visible = False
         '
         'lblQuestion
         '
@@ -160,7 +167,7 @@ Partial Class Form1
         Me.lblQuestion.Name = "lblQuestion"
         Me.lblQuestion.Size = New System.Drawing.Size(390, 33)
         Me.lblQuestion.TabIndex = 11
-        Me.lblQuestion.Text = "Convert 400mcg to milligrams."
+        Me.lblQuestion.Text = "Question goes here."
         '
         'btnFinish
         '

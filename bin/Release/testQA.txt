@@ -1,0 +1,350 @@
+' Q1
+Convert 400mcg to milligrams.
+A
+0.4mg
+0.04mg
+0.004mg
+4mg
+' Q2
+Which of the following terms best describes the solution in a TPN?
+B
+Hypertonic
+Isotonic
+Hypotonic
+Tonic
+' Q3
+Which of the following is not needed on a pharmacy label for a finished IV admixture?
+C
+ingredients, concentrations, and final amount of solution.
+Patient name and room number
+Equipment used in preparing the admixture
+Date and time the admixture was made
+' Q4
+What is the purpose of a HEPA filter?
+D
+to filter IV solution
+to monitor airborne contaminants
+to filter IV suspensions
+to filter Airborne contaminants
+' Q5
+Which of the following solutions are used most often as IVPB dilution?
+D
+D5W and normal Saline
+D5 and 0.9Ns and 0.09%NaCl
+Lactated Ringer's and D5
+D50% and 9% Sodium Chloride
+' Q6
+Large-volume Parenterals (LVPs) are in what general size range?
+B
+2ml-50ml
+250ml-3000ml
+0.5ml-1ml
+50ml-100ml
+' Q7
+Large volumes of IV solution may easily be transferred into a
+C
+Prefilled Syringe
+Ampules and Vials
+Premixed piggyback
+Evacuated container
+' Q8
+Additives to a total Parenteral Nutrition solution include
+D
+Dextrose, Amino Acids, and Sterile water
+Fluorouracil and Hydroxyurea
+Tobramycin and Pyrogens
+Vitamins, Minerals, and Compatible medications
+' Q9
+Intermittent infusions are most often given
+A
+at regular intervals
+Continuously
+By LVP
+at a constant rate over a 24-Hr period
+' Q10
+Which of the following is considered controlled room temperature?
+C
+62-72 degrees Fahrenheit
+0-32 degrees Fahrenheit
+59-86 degrees Fahrenheit
+36-46 degrees Fahrenheit
+' Q11
+Digitalis Drugs work directly on the cardiac muscle cells to __ their individual contractile activity
+D
+Stabilize
+Eliminate
+Decrease
+Increase
+' Q12
+Onset time for a sedative to cause drowsiness by this route is 30min.
+A
+Oral
+intravenous
+Skin Patch
+Inhalation
+' Q13
+A drug that lowers high blood pressure by acting on the Peripheral blood vessels works on this substance.
+B
+Beta-2 adrenergic receptors
+Angiotensin- Converting enzymes
+Cyclo-Oxygenase enzymes
+H1 histamine receptors
+' Q14
+Drugs that act on enzymes to produce their therapeutic effect include all except
+B
+Aspirin
+Contraceptive
+Blood pressure medication
+Anti-inflammatory medication
+' Q15
+Site of action in brain where anti psychotics work
+C
+Basal Ganglia
+Cerebral Cortex
+Limbic System
+Chemo receptor trigger zone
+' Q16
+Maximum effect that can be achieved by a drug is called drug
+B
+circulation
+Efficacy
+Metabolism
+Potency
+' Q17
+Site of action for Skeletal Relaxants
+D
+Limbic System
+Cerebral Cortex
+Chemo receptor trigger zone
+Spinal Cord
+' Q18
+Which of the following for drugs is most potent as a pain relief
+B
+Advil 200mg
+Orudis KT 12.5mg
+Aspirin 325mg
+Aleve 220mg
+' Q19
+Site of action of sleeping pills in the brain
+C
+Basal Ganglia
+Chemo Receptors trigger zone
+Cerebral Cortex
+Limbic system
+' Q20
+Which of the following diuretic drugs act at the distal part of the nephron?
+C
+Anticoagulant
+Potassium-Sparing Diuretics
+Thiazides
+Loop Diuretics
+' Q21
+Route of excretion of volatile drugs is through the
+A
+lungs
+Intestine
+Liver
+Kidneys
+' Q22
+Onset time for an inhalation drug to cause drowsiness is
+B
+30sec
+5min
+30min
+5sec
+' Q23
+Site of action for Furosemide (Lasix)
+B
+Blood
+Kidney
+Electrical conduction system
+Cardiac Muscle
+' Q24
+The most important characteristic that a drug must have to freely pass from the GI Tract into circulation is to be
+D
+Bound to a receptor
+Bound to a Protein
+Fat Soluble
+In salt form
+' Q25
+This is the major form in which drugs may be detected in the urine.
+A
+Glucuronic Acid metabolite
+Bond to plasma protein
+Hydroxylati Derivative
+Original parent compound
+' Q26
+Aspirin acts at this site of action.
+D
+H1 histamine receptors
+Beta-2 adrenergic receptors
+Angiotensin-Converting enzyme
+Cyclo-Oxygenase enzymes
+' Q27
+Site of action for antiarrhythmic drug is the
+C
+Basal Ganglia
+Peripheral blood vessel
+Electrical conduction system of cardiac muscle
+Kidney and their functioning nephrons
+' Q28
+Nitroglycerin is used to  ___ the coronary blood vessels
+B
+Suppress
+Dilate
+Contract
+Stop
+' Q29
+___ is the classic structural formula for all the addictive narcotics
+D
+Diazepam
+Amitriptyline
+Tetracycline
+Codeine
+' Q30
+___ is a halogen that is easily combine with carbon compounds to provide new properties to the molecule
+B
+Potassium
+Iodine
+Lithium
+Magnesium
+' Q31
+What is the molecular weight of Ethane?
+D
+6.06
+24
+1.01
+30.06
+' Q32
+Which class of antibiotics has a specific ring structure within their molecules known as the beta-lactam ring?
+C
+Steroids
+Tetracycline
+Penicillin
+Tricyclic anti depressant
+' Q33
+Compounds made of living sources all contain the element
+A
+Carbon
+Magnesium
+Zinc
+Potassium
+' Q34
+The insulin molecule contains ___ amino acids
+D
+16
+4
+26
+86
+' Q35
+__ are long chains of amino acid units
+A
+Proteins
+Amines
+Elements
+Hydro Carbons
+' Q36
+What is the molecular weight of Lithium Carbonate
+B
+48
+73.88
+100.88
+6.94
+' Q37
+__ Is a compound formed from combining a carboxylic acid and an alcohol
+A
+Ester
+Ketone
+Aldehyde
+Ether
+' Q38
+Standard atomic weight is based on the weight of the element
+B
+Oxygen
+Carbon
+Magnesium
+Hydrogen
+' Q39
+How many additional electrons does carbon need in it's outer shell to achieve the greatest stability as a atom?
+A
+4
+1
+2
+3
+' Q40
+Phenol has a functional group known as the ___ group present in the molecule.
+D
+Carbonyl
+Methyl
+Amine
+Hydroxyl
+' Q41
+The Molecular weight of Citrate is
+B
+29.01
+192.08
+192
+29.08
+' Q42
+__ is effective in the treatment of Psychosis and Schizophrenia
+C
+Tetracycline
+Codeine
+Chlorpromazine
+Amitriptyline
+' Q43
+A carbon compound that contains oxygen between 2 hydrocarbon groups is known as
+C
+Ester
+Amine
+Ether
+Ketone
+' Q44
+Benzene is a Cyclic structure containing how many Carbons?
+D
+8
+4
+0
+6
+' Q45
+Which element is an Alkaline Earth Metal that combines more readily with inorganic compounds that with organic molecules?
+C
+Sodium
+Iodine
+Calcium
+Chlorine
+' Q46
+Ephedrine Sulfate is a compound better known as a
+D
+Narcotic
+Tranquilizer
+Stimulant
+Decongestant
+' Q47
+The two most well-known Alkaline Earth Metals are
+B
+Magnesium and Barium
+Calcium and Magnesium
+Calcium and Radium
+Strontium and Radium
+' Q48
+What is the molecular weight of Calcium Chloride?
+D
+35.5
+71
+40.1
+111.1
+' Q49
+The word 'Dispense' AKA 'Disp' is found in what part of prescription?
+A
+Directions to the pharmacist
+Strength of medication
+Name of medication
+Directions for refill
+' Q50
+The word Sig, signifies what part of the prescription?
+D
+Strength of medication
+Name of medication
+Direction to the Pharmacis
+Directions to the patient
